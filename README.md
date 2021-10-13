@@ -13,7 +13,7 @@
 
 
 ## About me
-* Hi, I'm Sahil Jena from currently pursuing my Computer Science Engineering. I have a keen interest in Web Development and DSA. You can check out my website <a href="https://sahiljena.github.io/">here</a>.
+* Hi, I'm Sahil Jena from Delhi,India currently pursuing Computer Science Engineering. I have a keen interest in Web Development and DSA. You can check out my website <a href="https://sahiljena.github.io/">here</a>.
 
 
 
