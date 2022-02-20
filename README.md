@@ -3,7 +3,8 @@
 </h3>
 
 - 🔭 I’m currently working with **the MERN stack to build web applications**
-
+- 🌱 I’m currently learning React and Javascript
+- 👯 I’m looking to collaborate on Web Projects
 - 📫 How to reach me **sahiljena46@gmail.com**
 
 
