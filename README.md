@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Jena</h1>
-<h3 align="center">Frontend Engineer @ Bajaj Finserv Health | React Naitve | NextJs  </h3>
+<h3 align="center">Software Developer @ Super.Money | React Naitve | NextJs  </h3>
 
-- 🔭 I’m currently working at **Bajaj Finserv Health** as a **Frontend Software Development Engineer**  
+- 🔭 I’m currently working at **Super.Money(Flipkart)** as a **Software Development Engineer**  
 - 💻 Skilled in building scalable applications using **React, React Native, and the MERN stack**  
 - 🌱 Currently deepening my expertise in **JavaScript, TypeScript, and modern frontend architectures**  
 - 👯 I’m open to collaborating on **Frontend & Full Stack projects**  
